@@ -23,5 +23,9 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TribunaTV.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/TRIBUNA-TV-253x194.jpg" group-title="",TribunaTV (614p) [Not 24/7]
 https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVM.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://tvm.com.sv/wp-content/uploads/2021/07/TVM_Design-01.png" group-title="",TV Migueleña (720p) [Not 24/7]
+http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
 http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
