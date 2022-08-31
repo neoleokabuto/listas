@@ -1,25 +1,57 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Canal10.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Iy5jUjV.png" group-title="",Canal 10 (1080p)
-http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="Undefined",Canal 12
+https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
 
-#EXTINF:-1 tvg-id="Canal33.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png" group-title="",Canal 33 (1080p)
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="TCS.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logotipo-tcs-sv.png" group-title="",TCS (720p)
-https://secure-video.tcsgo.com/tcshd/index.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://i.imgur.com/ukT8LT0.png" group-title="Entertainment",EnerGeek (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/sv_23-tv-oriente_m.png" group-title="",TVO Canal 23 (720p) [Not 24/7]
-https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek2.cl" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="Series",EnerGeek Señal 2 (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OrbitaTVCanal25.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-T6GUy9Xq7dk/XHqhBG7oE1I/AAAAAAAAHcI/JthcJF6_nZ8VDmiy0QGGXaVKrsgDsBvogCLcBGAs/s1600/%25C3%2593rbita%2BTV%2BCanal%2B25%2Bhd.png" group-title="",Órbita TV Canal 25 (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="EnerGeek3.cl" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="Series",EnerGeek Señal 3 (720p) [Not 24/7]
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/512px-HispanTv_logo.svg.png" group-title="News",HispanTV (480p)
+https://live1.presstv.ir/live/hispan.m3u8
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Entertainment",LatinoKids (360p) [Not 24/7]
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_Asamblea_Legislativa_de_El_Salvador_%282021%29.svg/512px-Logo_Asamblea_Legislativa_de_El_Salvador_%282021%29.svg.png" group-title="Legislative",Legislative Assembly of El Salvador
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+
+#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",NASA TV (720p)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Series",Novelísima [Not 24/7]
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+
+#EXTINF:-1 tvg-id="OrbitaTV.sv" tvg-logo="https://3.bp.blogspot.com/-T6GUy9Xq7dk/XHqhBG7oE1I/AAAAAAAAHcI/JthcJF6_nZ8VDmiy0QGGXaVKrsgDsBvogCLcBGAs/s1600/%25C3%2593rbita%2BTV%2BCanal%2B25%2Bhd.png" group-title="Undefined",Órbita TV Canal 25 (480p) [Not 24/7]
 https://5dcabf026b188.streamlock.net/orbitatv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tele1.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://www.tele1.sv/wp-content/uploads/2019/06/TELE1_FINAL_BLUE-1-149x84.png" group-title="",Tele1 (1080p) [Not 24/7]
-http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
+#EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Movies",Sofy TV (720p)
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="SV;PE" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="General",WOW TV (720p) [Not 24/7]
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TribunaTV.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/TRIBUNA-TV-253x194.jpg" group-title="",TribunaTV (614p) [Not 24/7]
-https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMElSalvador.sv" tvg-logo="https://tvm.com.sv/wp-content/uploads/2020/02/TVM2.png" group-title="News" user-agent="Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36",TVM El Salvador (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
+http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel International (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+
